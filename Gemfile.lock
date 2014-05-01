@@ -1,0 +1,16 @@
+PATH
+  remote: .
+  specs:
+    dopefish (0.0.1)
+
+GEM
+  remote: http://rubygems.org/
+  specs:
+    rake (10.3.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  dopefish!
+  rake
